@@ -1,0 +1,15 @@
+[submodule "NLP_assemblee"]
+	path = NLP_assemblee
+	url = git@github.com:gwatkinson/NLP_Assemblee.git
+[submodule "smc_movement_models"]
+	path = smc_movement_models
+	url = https://github.com/gwatkinson/smc_movement_models.git
+[submodule "automated_prior_analysis"]
+	path = automated_prior_analysis
+	url = https://github.com/gwatkinson/automated_prior_analysis
+[submodule "ConvexOptimisationHW3"]
+	path = ConvexOptimisationHW3
+	url = https://github.com/gwatkinson/ConvexOptimisationHW3
+[submodule "statapp"]
+	path = statapp
+	url = https://github.com/gwatkinson/statapp

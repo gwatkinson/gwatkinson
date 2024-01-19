@@ -8,35 +8,47 @@ I'm Gabriel Watkinson, a Master's student at [ENSAE IP Paris](https://www.ensae.
 
 In this repository, you will find submodules that link towards some of my projects.
 
-__Research internship in the Computational Bio-Imaging and Bioinformatics team at the ENS Biology Institute__
+### Research internship
 
-* Multimodal models to learn common representation between molecules and the HCS images they are associated with. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_models)
-* Repo to download a subset of the JUMP HCS dataset. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_download)
+* Internship in the Computational Bio-Imaging and Bioinformatics team at the ENS Biology Institute under the supervision of Auguste Genovesio and Ethan Cohen.
+* Multimodal models to learn common representation between molecules and the HCS images they are associated with. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_models)
+* Repo to download a subset of the JUMP HCS dataset. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_download)
 
-__MVA school projects__
+### MVA projects
 
-* Shape Analysis of Elastic Curves in Euclidean Spaces.
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/elastic-curve-analysis)
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/elastic-curve-analysis)
 [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/Shape%20Analysis/Geometric_Data_Analysis.pdf)
-[![PDF](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/Shape%20Analysis/Slides_GDA.pdf.pdf)
-* NLP project on CANINE.
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/mva_snlp_canine)
-[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/mva_snlp_canine/blob/main/MVA_SNLP_Report.pdf)
-* Generative Modelling project on the paper: Likelihood training of Schrödinger bridge using Forward-backward SDEs theory.
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/mva_sb_generative)
+[![Slides](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/Shape%20Analysis/Slides_GDA.pdf)
+Shape Analysis of Elastic Curves in Euclidean Spaces
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/mva_sb_generative)
 [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/mva_sb_generative/blob/main/report.pdf)
-[![PDF](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/mva_sb_generative/blob/main/slides.pdf)
-* NLP project on French politics:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/NLP_Assemblee)
+[![Slides](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/mva_sb_generative/blob/main/slides.pdf)
+Generative Modelling project on the paper: Likelihood training of SB using FB SDEs theory
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/mva_snlp_canine)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/mva_snlp_canine/blob/main/MVA_SNLP_Report.pdf)
+NLP project on CANINE
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/NLP_Assemblee)
 [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/NLP_Assemblee/MVA_Deep_Learning_Report.pdf)
-* Convex Optimisation Homework:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/ConvexOptimisationHW3)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/gwatkinson/ConvexOptimisationHW3/blob/main/final.ipynb)
+NLP project on French politics
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/ConvexOptimisationHW3)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)](https://github.com/gwatkinson/ConvexOptimisationHW3/blob/main/final.ipynb)
+Convex Optimisation Homework
 
+### ENSAE projects
 
-![PDF](https://img.shields.io/badge/📄_PDF-blue)
-![Presentation](https://img.shields.io/badge/📃_PPT-red)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/smc_movement_models)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/smc_movement_models/blob/main/SMC_Movement_Model_Ecology.pdf)
+[![Slides](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/smc_movement_models/blob/main/Slides.pdf)
+Estimating behavioral parameters in animal movement models using a state-augmented particle filter
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/TextDefendR)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/TextDefendR/blob/main/Adversarial_Attacks_in_Text_Classification-3.pdf)
+NLP project on adversarial attack detection in NLP
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/automated_prior_analysis)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/automated_prior_analysis/blob/main/pdfs/automated_prior_analysis.pdf)
+Bayesian Statistics project on the paper An Automated Prior Robustness Analysis in Bayesian Model Comparison
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/DeepWasserstein)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)](https://github.com/gwatkinson/DeepWasserstein/blob/main/main.ipynb)
+Do Wasserstein-GAN approximate Wasserstein distances ?
 
 
 ## Publications
@@ -48,6 +60,7 @@ __First Author__:
 __Coauthor__:
 
 * Bourriez, N., Bendidi, I., Cohen, E., Watkinson, G., Sanchez, M., Bollot, G., & Genovesio, A. (2023). [ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images.](https://arxiv.org/abs/2311.15264) arXiv preprint arXiv:2311.15264.
+
 
 
 ## Education

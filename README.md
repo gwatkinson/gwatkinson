@@ -1,8 +1,58 @@
 # Hi there 👋
 
-I'm Gabriel Watkinson, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole.
+I'm Gabriel Watkinson, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI.
 
-## MVA
+
+ 
+ ## Projects
+
+In this repository, you will find submodules that link towards some of my projects.
+
+__Research internship in the Computational Bio-Imaging and Bioinformatics team at the ENS Biology Institute__
+
+* Multimodal models to learn common representation between molecules and the HCS images they are associated with. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_models)
+* Repo to download a subset of the JUMP HCS dataset. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_download)
+
+__MVA school projects__
+
+* Shape Analysis of Elastic Curves in Euclidean Spaces.
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/elastic-curve-analysis)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/Shape%20Analysis/Geometric_Data_Analysis.pdf)
+[![PDF](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/Shape%20Analysis/Slides_GDA.pdf.pdf)
+* NLP project on CANINE.
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/mva_snlp_canine)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/mva_snlp_canine/blob/main/MVA_SNLP_Report.pdf)
+* Generative Modelling project on the paper: Likelihood training of Schrödinger bridge using Forward-backward SDEs theory.
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/mva_sb_generative)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/mva_sb_generative/blob/main/report.pdf)
+[![PDF](https://img.shields.io/badge/📄_Slides-red)](https://github.com/gwatkinson/mva_sb_generative/blob/main/slides.pdf)
+* NLP project on French politics:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/NLP_Assemblee)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/gwatkinson/gwatkinson/blob/main/pdfs/NLP_Assemblee/MVA_Deep_Learning_Report.pdf)
+* Convex Optimisation Homework:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gwatkinson/ConvexOptimisationHW3)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/gwatkinson/ConvexOptimisationHW3/blob/main/final.ipynb)
+
+
+![PDF](https://img.shields.io/badge/📄_PDF-blue)
+![Presentation](https://img.shields.io/badge/📃_PPT-red)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+
+## Publications
+
+__First Author__:
+
+* Gabriel, W., Ethan, C., Nicolas, B., Ihab, B., Guillaume, B., & Auguste, G. (2023). [Weakly supervised cross-model learning in high-content screening.](https://arxiv.org/abs/2311.04678) arXiv preprint arXiv:2311.04678.
+
+__Coauthor__:
+
+* Bourriez, N., Bendidi, I., Cohen, E., Watkinson, G., Sanchez, M., Bollot, G., & Genovesio, A. (2023). [ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images.](https://arxiv.org/abs/2311.15264) arXiv preprint arXiv:2311.15264.
+
+
+## Education
+
+### MVA
 
 MVA (which stands for Mathématique - Vision - Apprentissage) is the best French Reserch Master 2 for Data Science and Statistic Modelisation. 
 
@@ -20,10 +70,10 @@ The course I followed are :
 * [Kernel Methods for Machine Learning](https://www.master-mva.com/cours/kernel-methods-for-machine-learning/) (J. MAIRAL, M. ARBEL)
 
 
-## ENSAE
+### ENSAE
 
 ENSAE is a school specialized in Statistics, Data Science, Economy and Finance. 
-Though, I choose the [Data Science, Statistics and Learning track](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning). 
+I specialized in Data Science, choosing the [Data Science, Statistics and Learning track](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning). 
 
 Some of the courses I validated are :
  
@@ -49,8 +99,3 @@ Some of the courses I validated are :
 * [Econometry](https://www.ensae.fr/courses/6104)
 * [Financial Mathematics](https://www.ensae.fr/courses/124)
 * [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
- 
- 
- ## Some of my Projects
-
-In this repository, you will find submodules that link towards some of my projects.

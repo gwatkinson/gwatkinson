@@ -11,7 +11,9 @@ In this repository, you will find submodules that link towards some of my projec
 ### Research internship
 
 * Internship in the Computational Bio-Imaging and Bioinformatics team at the ENS Biology Institute under the supervision of Auguste Genovesio and Ethan Cohen.
-* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_models) Multimodal models to learn common representation between molecules and the HCS images they are associated with. 
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_models)
+[![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://arxiv.org/pdf/2311.04678.pdf)
+Multimodal models to learn common representation between molecules and the HCS images they are associated with. 
 * [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gwatkinson/jump_download) Repo to download a subset of the JUMP HCS dataset.
 
 ### School projects

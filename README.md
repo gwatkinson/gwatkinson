@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Gabriel Watkinson, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI.
+I'm Gabriel Watkinson, I work as a Bio AI research engineer at Instadeep since 2024.
+
+I graduated from [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI.
 
 
  
